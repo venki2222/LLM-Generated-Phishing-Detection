@@ -1,0 +1,10 @@
+train_model,eval_model,classifier,accuracy,precision,recall,f1,auc
+deepseek3.2,deepseek3.2,xgboost,0.9989,0.9982,1.0,0.9991,0.9998
+deepseek3.2,gpt-4.1,xgboost,0.9917,0.9982,0.9886,0.9934,0.9994
+deepseek3.2,llama-3.3-70b,xgboost,0.564,0.994,0.3025,0.4639,0.9618
+gpt-4.1,deepseek3.2,xgboost,0.979,0.9981,0.9682,0.9829,0.9995
+gpt-4.1,gpt-4.1,xgboost,0.9989,0.9982,1.0,0.9991,1.0
+gpt-4.1,llama-3.3-70b,xgboost,0.6416,0.9958,0.4269,0.5976,0.9721
+llama-3.3-70b,deepseek3.2,xgboost,0.6248,0.9955,0.4012,0.5719,0.9771
+llama-3.3-70b,gpt-4.1,xgboost,0.7077,0.9966,0.5339,0.6953,0.9861
+llama-3.3-70b,llama-3.3-70b,xgboost,0.9989,0.9982,1.0,0.9991,1.0

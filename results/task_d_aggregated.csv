@@ -1,0 +1,4 @@
+eval_llm,classifier,accuracy,precision,recall,f1,auc
+deepseek3.2,xgboost,0.997,0.9952,1.0,0.9976,0.9997
+gpt-4.1,xgboost,0.997,0.9952,1.0,0.9976,0.9998
+llama-3.3-70b,xgboost,0.997,0.9952,1.0,0.9976,0.9995

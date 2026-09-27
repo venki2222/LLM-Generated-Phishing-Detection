@@ -1,0 +1,8 @@
+{
+  "classifier": "xgboost",
+  "diagonal_mean_f1": 0.9991,
+  "off_diagonal_mean_f1": 0.7174999999999999,
+  "transferability_gap_pp": 28.160000000000007,
+  "n_train_humans": 4000,
+  "n_test_humans": 1000
+}
